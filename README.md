@@ -1,9 +1,11 @@
 # udemy_lhtc_ggpl
 Udemy Learn How To Code: Google's Go (golang) Programming Languge
 
-* Valuable Resources: https://goo.gl/PHKgO7
 * Course Resources: https://docs.google.com/document/d/1ckYpi6hcRkaBUEk975f54oGsHYHu7GhzOk7-nOrkNxo/edit
+* Valuable Resources: https://goo.gl/PHKgO7
 * Video Descriptions: https://docs.google.com/document/d/1nt5bYAAS5sTVF6tpLaFLDHQzo5BNkcr4b507fg3ZPwM/edit
+
+A great place to ask questions is the "golang bridge forum" at https://forum.golangbridge.org/ 
 
 ## 11 Installin Go
 
